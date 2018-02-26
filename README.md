@@ -31,7 +31,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/sergio_torres_gem.
+Bug reports and pull requests are welcome on GitHub at https://github.com/Sophia-Sergio/ruby-my-first-gem.
 
 ## License
 
