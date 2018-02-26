@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Mi primera gema}
   spec.description   = %q{Mi primera gema}
-  spec.homepage      = "sergio-torres.cl"
+  spec.homepage      = "http://www.sergio-torres.cl"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
